@@ -1,5 +1,7 @@
 # RedTeamOPS-bootcamp101
 Material do Bootcamp de Red Team - by Victor de Queiroz
+
+![0](https://github.com/P3d50/RedTeamOPS-bootcamp101/blob/main/Screenshot%202021-11-29%20at%2007-41-45%20Sympla%20Certificado%20-%2061a4adb7b1f6a%20pdf.png)
 ![1](https://user-images.githubusercontent.com/31081984/124331262-68b7fc00-db65-11eb-8998-665b493a3d6e.png)
 ![2](https://user-images.githubusercontent.com/31081984/124331267-69e92900-db65-11eb-9ebe-fc87d3bed723.png)
 ![apresentação](https://user-images.githubusercontent.com/31081984/137573226-2a33a865-51c8-44d3-892f-2e622a95fa16.jpg)
